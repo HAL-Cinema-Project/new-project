@@ -34,3 +34,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Add gitignore rules for the following files
+/.env
+docker-compose.yml
